@@ -1,0 +1,15 @@
+# Python bytecode cache
+__pycache__/
+
+# Virtual Environment folder (pilih yang Anda gunakan)
+venv/
+.venv/
+env/
+
+# File output dari scraper
+*.csv
+*.log
+
+# File konfigurasi IDE (opsional, tapi sangat direkomendasikan)
+.vscode/
+.idea/
